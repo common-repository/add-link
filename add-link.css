@@ -1,0 +1,47 @@
+.add-link .add-link-help p {
+	background:#EDEDED center bottom repeat-x;
+	color:#333333;
+	font-size:11px;
+	margin:0;
+	padding:;
+}
+
+.widget .add-link  p{
+	padding: 3px 0;
+} 
+.add-link-help {
+	-moz-border-radius-topleft:4px;
+	-moz-border-radius-topright:4px;
+	border:1px solid #DFDFDF;
+	border-bottom: 0;
+	background:#EDEDED;
+	padding: 6px 0.9em;
+}
+
+.add-link textarea{
+	-moz-border-radius-topleft:0px;
+	-moz-border-radius-topright:0px;
+	margin-bottom:10px;
+}
+
+.add-link .input-label{
+	font-size: 11px;
+	position: absolute;
+	margin-top: -15px;
+	
+}
+.add-link label{
+	font-weight: bold;
+	text-transform: capitalize;
+}
+.add-link span label,
+.add-link .label-clean{
+	font-weight: normal;
+}
+#add-link-password{
+	margin-top:0;
+	padding-left: 18px;
+}
+p.add-link-user-info-indent{
+	padding-left: 20px;
+}
